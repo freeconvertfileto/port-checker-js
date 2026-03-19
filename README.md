@@ -2,7 +2,7 @@
 
 Check whether TCP ports are open or closed on any host, with a 18-port named-service lookup table and common port preset buttons, entirely from the browser.
 
-**Live Demo:** https://file-converter-free.com/en/network-tools/port-checker
+**Live Demo:** https://file-converter-free.com/en/network-tools/port-checker-online
 
 ## How It Works
 
